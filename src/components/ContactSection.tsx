@@ -93,7 +93,7 @@ export function ContactSection() {
                   Kirim Pesan
                 </h3>
                 <p className="mt-2 text-sm leading-6 text-mutedText">
-                  Form ini hanya UI demo dan tidak mengirim data ke backend.
+                  hayoolohhh hahahah ahahaha ahahahaha ahahahahh hahaha
                 </p>
               </div>
             </div>

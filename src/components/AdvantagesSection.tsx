@@ -14,7 +14,7 @@ export function AdvantagesSection() {
             <SectionHeader
               eyebrow="Keunggulan"
               title="Mengapa Memilih Kami?"
-              description="Kami memadukan pemahaman lapangan, jaringan mitra, dan pendekatan kerja yang transparan untuk mendukung pertumbuhan agribisnis yang sehat."
+              description="asdfghjkl qwertyuiop zxcvbnm. lkjasdf qweqwe zxcvzx asdqwe. poiyut rewq asdfg hjklmnb vcxz."
               align="left"
             />
             <motion.div
@@ -31,7 +31,7 @@ export function AdvantagesSection() {
                 <div>
                   <h3 className="text-xl font-bold">Standar Kerja Terukur</h3>
                   <p className="mt-2 leading-7 text-white/75">
-                    Setiap program disusun dengan target, komunikasi, dan proses pemantauan yang rapi agar hasil kolaborasi mudah dievaluasi.
+                    asdfghjkl qwertyuiop zxcvbnm. lkjasdf qweqwe zxcvzx asdqwe. poiyut rewq asdfg hjklmnb vcxz.
                   </p>
                 </div>
               </div>

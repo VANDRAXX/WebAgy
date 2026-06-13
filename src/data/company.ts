@@ -162,7 +162,7 @@ export const company = {
     {
       title: "Tim profesional dan responsif",
       description:
-        ""
+        "asdfghjkl qwertyuiop zxcvbnm. lkjasdf qweqwe zxcvzx asdqwe. poiyut rewq asdfg hjklmnb vcxz."
     }
   ] satisfies AdvantageItem[],
   portfolio: [
