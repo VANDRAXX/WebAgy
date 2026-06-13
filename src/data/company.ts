@@ -63,9 +63,9 @@ export const company = {
   hero: {
     badge: "Company Profile Agribisnis Modern",
     headline:
-      "Membangun Ekosistem Pertanian yang Lebih Maju, Efisien, dan Berkelanjutan",
+      "Meambangun Ekosistem Pertanian yang Lebih Maju, Efisien, dan Berkelanjutan",
     subheadline:
-      "AGRIMARKET DIGITAL hadir sebagai mitra strategis bagi petani, pelaku usaha, dan institusi dalam menghadirkan solusi pertanian yang modern, terpercaya, dan berorientasi pada hasil.",
+      "AGRIMARKET DIGITAL hadir sebagai ayay ayayasdfghjkl qwertyuiop zxcvbnm. lkjasdf qweqwe zxcvzx asdqwe.",
     primaryCta: "Konsultasi Sekarang",
     secondaryCta: "Lihat Layanan",
     stats: [
@@ -77,64 +77,64 @@ export const company = {
   about: {
     title: "Tentang AGRIMARKET DIGITAL",
     description:
-      "Perusahaan ini berfokus pada pengembangan sektor pertanian melalui layanan distribusi, pendampingan, pengelolaan hasil tani, dan solusi agribisnis yang menghubungkan kebutuhan pasar dengan potensi petani lokal.",
+      "Pasdfghjkl qwertyuiop zxcvbnm. lkjasdf qweqwe zxcvzx asdqwe. poiyut rewq asdfg hjklmnb vcxz.",
     highlights: [
       {
         title: "Berorientasi pada keberlanjutan",
         description:
-          "Mengutamakan praktik agribisnis yang menjaga produktivitas lahan dan nilai jangka panjang."
+          "asdfghjkl qwertyuiop zxcvbnm. lkjasdf qweqwe zxcvzx asdqwe. poiyut rewq asdfg hjklmnb vcxz."
       },
       {
         title: "Mendukung petani lokal",
         description:
-          "Membangun kemitraan yang adil melalui pendampingan, akses pasar, dan proses kerja terukur."
+          "asdfghjkl qwertyuiop zxcvbnm. lkjasdf qweqwe zxcvzx asdqwe. poiyut rewq asdfg hjklmnb vcxz."
       },
       {
         title: "Mengutamakan kualitas dan kepercayaan",
         description:
-          "Memastikan hasil tani, layanan, dan kolaborasi berjalan transparan serta konsisten."
+          "asdfghjkl qwertyuiop zxcvbnm. lkjasdf qweqwe zxcvzx asdqwe. poiyut rewq asdfg hjklmnb vcxz."
       }
     ] satisfies Highlight[],
     vision:
-      "Menjadi mitra agribisnis terpercaya yang memperkuat ekosistem pertanian Indonesia.",
+      "asdfghjkl qwertyuiop zxcvbnm. lkjasdf qweqwe zxcvzx asdqwe. poiyut rewq asdfg hjklmnb vcxz.",
     mission:
-      "Menghubungkan petani, pelaku usaha, dan institusi melalui distribusi, pendampingan, dan solusi rantai pasok yang modern."
+      "asdfghjkl qwertyuiop zxcvbnm. lkjasdf qweqwe zxcvzx asdqwe. poiyut rewq asdfg hjklmnb vcxz."
   },
   services: [
     {
       title: "Distribusi Hasil Pertanian",
       description:
-        "Pengelolaan distribusi produk tani dari sumber lokal menuju pasar yang lebih luas dan stabil.",
+        "asdfghjkl qwertyuiop zxcvbnm. lkjasdf qweqwe zxcvzx asdqwe. poiyut rewq asdfg hjklmnb vcxz.",
       icon: "Truck"
     },
     {
       title: "Kemitraan Petani",
       description:
-        "Program kerja sama dengan petani untuk meningkatkan kualitas produksi dan akses penjualan.",
+        "asdfghjkl qwertyuiop zxcvbnm. lkjasdf qweqwe zxcvzx asdqwe. poiyut rewq asdfg hjklmnb vcxz.",
       icon: "Handshake"
     },
     {
       title: "Penyediaan Produk Agrikultur",
       description:
-        "Penyediaan kebutuhan agrikultur pilihan untuk mendukung produktivitas lahan dan budidaya.",
+        "asdfghjkl qwertyuiop zxcvbnm. lkjasdf qweqwe zxcvzx asdqwe. poiyut rewq asdfg hjklmnb vcxz.",
       icon: "PackageCheck"
     },
     {
       title: "Konsultasi & Pendampingan",
       description:
-        "Pendampingan praktis bagi petani, usaha, dan institusi dalam menjalankan program pertanian.",
+        "asdfghjkl qwertyuiop zxcvbnm. lkjasdf qweqwe zxcvzx asdqwe. poiyut rewq asdfg hjklmnb vcxz.",
       icon: "MessagesSquare"
     },
     {
       title: "Pengelolaan Rantai Pasok",
       description:
-        "Membantu proses pasok hasil tani agar lebih efisien, terukur, dan transparan.",
+        "asdfghjkl qwertyuiop zxcvbnm. lkjasdf qweqwe zxcvzx asdqwe. poiyut rewq asdfg hjklmnb vcxz.",
       icon: "Network"
     },
     {
       title: "Pengembangan Program Pertanian",
       description:
-        "Perancangan program pertanian berkelanjutan untuk komunitas, korporasi, dan wilayah binaan.",
+        "asdfghjkl qwertyuiop zxcvbnm. lkjasdf qweqwe zxcvzx asdqwe. poiyut rewq asdfg hjklmnb vcxz.",
       icon: "Sprout"
     }
   ] satisfies ServiceItem[],
@@ -142,27 +142,27 @@ export const company = {
     {
       title: "Pengalaman di sektor pertanian",
       description:
-        "Memahami kebutuhan lapangan, standar kualitas, dan dinamika distribusi hasil tani."
+        "asdfghjkl qwertyuiop zxcvbnm. lkjasdf qweqwe zxcvzx asdqwe. poiyut rewq asdfg hjklmnb vcxz."
     },
     {
       title: "Jaringan petani dan mitra luas",
       description:
-        "Terhubung dengan komunitas petani, pelaku usaha, dan mitra distribusi di berbagai wilayah."
+        "asdfghjkl qwertyuiop zxcvbnm. lkjasdf qweqwe zxcvzx asdqwe. poiyut rewq asdfg hjklmnb vcxz."
     },
     {
       title: "Proses kerja transparan",
       description:
-        "Setiap kolaborasi dirancang dengan alur yang jelas, akuntabel, dan mudah dipantau."
+        "asdfghjkl qwertyuiop zxcvbnm. lkjasdf qweqwe zxcvzx asdqwe. poiyut rewq asdfg hjklmnb vcxz."
     },
     {
       title: "Fokus pada kualitas dan keberlanjutan",
       description:
-        "Menjaga standar produk dan dampak positif bagi petani, pasar, serta lingkungan."
+        "asdfghjkl qwertyuiop zxcvbnm. lkjasdf qweqwe zxcvzx asdqwe. poiyut rewq asdfg hjklmnb vcxz."
     },
     {
       title: "Tim profesional dan responsif",
       description:
-        "Dukungan tim yang cepat, komunikatif, dan siap menyesuaikan kebutuhan mitra."
+        ""
     }
   ] satisfies AdvantageItem[],
   portfolio: [
@@ -170,7 +170,7 @@ export const company = {
       title: "Push Up sehari 100x",
       location: "Pesantren Hamka Padang",
       description:
-        "daoihskjnfhjgansjh akjsgdakj sjdhsjda auh sdakua shduhdushak aishdkahsdkjghsukhei aajhsjdhguahdaa.",
+        "Pasdfghjkl qwertyuiop zxcvbnm. lkjasdf qweqwe zxcvzx asdqwe. poiyut rewq asdfg hjklmnb vcxz.",
       icon: "UsersRound",
       gradient: "from-[#0F3D2E] via-[#166534] to-[#22C55E]"
     },
@@ -178,7 +178,7 @@ export const company = {
       title: "Makan sepiring dua orang",
       location: "Kamar utsman",
       description:
-        "ashshah uasgygua ajhskjdg wjbe2uhiwu ajshuauihsa ashjhksans shsjhduhs auauasb auhsusa.",
+        "Pasdfghjkl qwertyuiop zxcvbnm. lkjasdf qweqwe zxcvzx asdqwe. poiyut rewq asdfg hjklmnb vcxz.",
       icon: "Boxes",
       gradient: "from-[#166534] via-[#4D7C0F] to-[#D6A94A]"
     },
@@ -186,7 +186,7 @@ export const company = {
       title: "Main BL",
       location: "Kandang ayam belakang SMA",
       description:
-        "AKtivitasi sodok meyodok bersama sdkhsjahaishd ajkhsags ajgyysa ashgshgdada.",
+        "Pasdfghjkl qwertyuiop zxcvbnm. lkjasdf qweqwe zxcvzx asdqwe. poiyut rewq asdfg hjklmnb vcxz.",
       icon: "Leaf",
       gradient: "from-[#0F3D2E] via-[#14532D] to-[#84CC16]"
     }

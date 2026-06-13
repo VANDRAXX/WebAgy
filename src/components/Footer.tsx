@@ -4,6 +4,7 @@ import { company } from "@/data/company";
 
 export function Footer() {
   const year = new Date().getFullYear();
+  const logoMarkSrc = `${process.env.NEXT_PUBLIC_BASE_PATH ?? ""}${company.logoMarkUrl}`;
 
   return (
     <footer className="bg-deepGreen text-white">
@@ -13,7 +14,7 @@ export function Footer() {
             <a href="#beranda" className="flex items-center gap-3">
               <span className="grid h-12 w-12 shrink-0 place-items-center overflow-hidden rounded-2xl bg-white p-1">
                 <Image
-                  src={company.logoMarkUrl}
+                  src={logoMarkSrc}
                   alt={`${company.name} logo`}
                   width={72}
                   height={52}

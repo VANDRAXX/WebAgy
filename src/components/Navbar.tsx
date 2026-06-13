@@ -10,6 +10,7 @@ import { cn } from "@/lib/utils";
 export function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
   const [isScrolled, setIsScrolled] = useState(false);
+  const logoMarkSrc = `${process.env.NEXT_PUBLIC_BASE_PATH ?? ""}${company.logoMarkUrl}`;
 
   useEffect(() => {
     const handleScroll = () => setIsScrolled(window.scrollY > 12);
@@ -51,7 +52,7 @@ export function Navbar() {
             )}
           >
             <Image
-              src={company.logoMarkUrl}
+              src={logoMarkSrc}
               alt={`${company.name} logo`}
               width={220}
               height={160}
